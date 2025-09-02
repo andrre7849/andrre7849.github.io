@@ -161,6 +161,7 @@
           <label for="notes">Address / Notes</label>
           <textarea id="notes" name="notes" placeholder="Address, car make/model, notes"></textarea>
            <input type="hidden" name="_captcha" value="false">
+           <input type="hidden" name="_next" value="thankyou.html">
 
           <div style="display:flex;gap:8px;margin-top:12px">
             <button class="btn" type="submit">Request booking</button>
