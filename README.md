@@ -105,7 +105,7 @@
       <div class="brand">
         <div class="logo">RD</div>
         <div>
-          <h1>Rivera Mobile Detail</h1>
+          <h1>Rivera's Mobile Detailing</h1>
           <div style="font-size:13px;color:var(--muted)">Mobile detailing • Ceramic • Interior • We come to you</div>
         </div>
       </div>
@@ -121,6 +121,7 @@
         <p>Fast, reliable, and protective detailing — from express washes to full ceramic coatings. Serving Bloomington & surrounding areas. Save time, skip the line.</p>
 
         <div class="features">
+          <div class="chip">Steaming</div>
           <div class="chip">Mobile • On-site</div>
           <div class="chip">Ceramic Coating</div>
           <div class="chip">Interior Deep Clean</div>
@@ -139,7 +140,7 @@
 
       <aside class="card booking" id="booking">
         <h3>Quick book</h3>
-        <p class="small">Fill this form or call <strong>(555) 555-5555</strong></p>
+        <p class="small">Fill this form or call <strong>(909) 640-0063</strong></p>
 
         <!-- Replace FORM_ACTION with your Formspree endpoint or server -->
         <form id="bookForm" action="https://formspree.io/f/your-form-id" method="POST">
@@ -173,17 +174,17 @@
     </section>
 
     <section id="services" style="margin-top:6px">
-      <h3 style="margin:0 0 8px">Services & pricing</h3>
+      <h3 style="margin:0 0 8px">Services &  Estimated Pricing</h3>
       <div class="grid">
         <div class="service card">
           <h4>Express Exterior</h4>
-          <div class="price">$35 – $60</div>
+          <div class="price">$55-$70</div>
           <p style="color:var(--muted)">Quick wash, wheel clean, tire dressing, exterior wipe-down. Great for weekly maintenance.</p>
         </div>
 
         <div class="service card">
           <h4>Full Detail</h4>
-          <div class="price">$120 – $220</div>
+          <div class="price">$140 – $200</div>
           <p style="color:var(--muted)">Exterior wash, clay bar, polish, interior vacuum, shampoo, trim dress. Most popular.</p>
         </div>
 
@@ -195,34 +196,24 @@
 
         <div class="service card">
           <h4>Interior Deep Clean</h4>
-          <div class="price">$90 – $180</div>
-          <p style="color:var(--muted)">Steam cleaning, stain removal, leather conditioning, odor removal.</p>
+          <div class="price">$100 – $160</div>
+          <p style="color:var(--muted)">Steam cleaning, stain removal, leather conditioning.</p>
         </div>
 
         <div class="service card">
           <h4>Headlight Restoration</h4>
-          <div class="price">$45 – $80</div>
+          <div class="price">$60</div>
           <p style="color:var(--muted)">Restore clarity & brightness, protectant included.</p>
         </div>
 
         <div class="service card">
-          <h4>Fleet / Recurring</h4>
+          <h4>Fleet / Subscription</h4>
           <div class="price">Contact for quote</div>
           <p style="color:var(--muted)">Volume discounts and scheduled maintenance packages available.</p>
         </div>
       </div>
     </section>
 
-    <section style="margin-top:10px">
-      <h3 style="margin-bottom:8px">Gallery</h3>
-      <div class="gallery card" id="gallery">
-        <!-- Replace src with real photos -->
-        <img src="https://via.placeholder.com/600x400?text=Before+1" alt="before" data-full="https://via.placeholder.com/1200x800?text=Before+1" />
-        <img src="https://via.placeholder.com/600x400?text=After+1" alt="after" data-full="https://via.placeholder.com/1200x800?text=After+1" />
-        <img src="https://via.placeholder.com/600x400?text=Before+2" alt="before2" data-full="https://via.placeholder.com/1200x800?text=Before+2" />
-        <img src="https://via.placeholder.com/600x400?text=After+2" alt="after2" data-full="https://via.placeholder.com/1200x800?text=After+2" />
-      </div>
-    </section>
 
     <section style="margin-top:18px">
       <h3 style="margin-bottom:8px">What clients say</h3>
@@ -233,16 +224,16 @@
         </div>
         <div class="tcard card">
           <strong>Maria L.</strong>
-          <p style="color:var(--muted)">“Fast, friendly, and thorough. The ceramic coating made my paint pop.”</p>
+          <p style="color:var(--muted)">“Fast, friendly, and thorough. The ceramic coating made my paint look better than before.”</p>
         </div>
       </div>
     </section>
 
     <footer>
       <div>
-        <strong>Rivera Mobile Detail</strong> • (555) 555-5555 • <a href="mailto:hello@example.com" style="color:inherit">hello@example.com</a>
+        <strong>Rivera's Mobile Detailing</strong> • (909) 640-0063 • <a href="mailto:andrre7849r@gmail.com" style="color:inherit">andrre7849r@gmail.com</a>
       </div>
-      <div style="font-size:13px;color:var(--muted)">Serving Bloomington & surrounding • Insured</div>
+      <div style="font-size:13px;color:var(--muted)">Proudly serving the IE</div>
     </footer>
   </div>
 
