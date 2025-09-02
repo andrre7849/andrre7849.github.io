@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Rivera Mobile Detail — Professional Mobile Detailing</title>
-  <meta name="description" content="Rivera Mobile Detail — Mobile car detailing, ceramic coatings, interior deep clean. We come to you. Serving Bloomington & nearby." />
+  <title>Rivera's Mobile Detail — Professional Mobile Detailing</title>
+  <meta name="description" content="Rivera's Mobile Detail — Mobile car detailing, ceramic coatings, interior deep clean. We come to you. Proudly serving The IE." />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
   <style>
