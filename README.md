@@ -160,6 +160,7 @@
           <input id="date" name="date" type="text" placeholder="June 30, 2pm" />
           <label for="notes">Address / Notes</label>
           <textarea id="notes" name="notes" placeholder="Address, car make/model, notes"></textarea>
+           <input type="hidden" name="_captcha" value="false">
 
           <div style="display:flex;gap:8px;margin-top:12px">
             <button class="btn" type="submit">Request booking</button>
